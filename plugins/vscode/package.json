@@ -54,7 +54,7 @@
     },
     "dependencies": {
         "follow-redirects": "^1.5.10",
-        "https-proxy-agent": "^2.2.1",
+        "https-proxy-agent": "^2.2.4",
         "maven": "^4.4.1",
         "xml2js": "^0.4.19"
     },
